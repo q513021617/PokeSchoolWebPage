@@ -1,6 +1,6 @@
 # pokeschool
 
-> vue + vuetifi
+> vue + vuetify
 
 ## Build Setup
 
