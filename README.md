@@ -1,6 +1,6 @@
 # pokeschool
 
-> A Vue.js project
+> vue + vuetifi
 
 ## Build Setup
 
